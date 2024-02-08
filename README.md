@@ -9,9 +9,9 @@
 <img src="supports/imgs/badge2.svg"/>
 <br />
 <br />
-Terraform scripts is a set of miscellaneous and unrelated scripts, built to try different configurations.
+Terraform scripts is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
-I wanted a place to test miscellaneous Terraform scripts.
+I wanted a place to test miscellaneous Terraform snippets.
 
 **This is why I created this project**.
 
